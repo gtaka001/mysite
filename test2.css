@@ -1,6 +1,11 @@
 .navi{
   color: green;
 }
-.append{
+
+append{
   color: yellow;
+}
+
+append2{
+  font-size: 12px;
 }
